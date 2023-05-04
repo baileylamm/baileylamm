@@ -1,8 +1,10 @@
 # Hi, I'm Bailey 👋
 
+### I'm a senior at the Tippie College of Business, The University of Iowa. I am studying business analytics, finance, and risk management and insurance, and this page features some of my work developed in my courses. 
+
 -----------
 
-I am a senior at the University of Iowa, and my GitHub page features some of my work. I am studying business analytics, finance, and risk management and insurance. 
+I am a senior at the University of Iowa, and my GitHub page features some of my work.  
 
 -------
 
