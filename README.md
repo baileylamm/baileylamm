@@ -14,3 +14,6 @@
 --------
 # Personal Portfolio
 Click the link to my personal portfolio --> https://baileylamm.me/
+
+<img src="[https://raw.githubusercontent.com/baileylamm/Portfolio/main/Headshot.JPG](https://github.com/baileylamm/baileylamm/blob/562bf973d0d58a3cc87f6676eaf882ac3b1a863c/image.png
+)" alt="Professional Headshot" width="500" align="center">  
