@@ -2,6 +2,9 @@
 
 ### I'm a senior at the Tippie College of Business, The University of Iowa. I am studying business analytics, finance, and risk management and insurance, and this page features some of my work. 
 
+![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&label=Go&style=for-the-badge)
+
+
 -------
 
 ### Current Skills
